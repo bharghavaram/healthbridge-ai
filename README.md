@@ -1,3 +1,5 @@
+> **📅 Project Period:** Jun 2025 – Sep 2025 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # 🏥 HealthBridge AI – Medical Document Intelligence & Triage Assistant
 
 > **HIPAA-aware medical RAG system with Pinecone across 10,000+ clinical documents, 91% diagnostic accuracy, and AWS Lambda deployment.**
