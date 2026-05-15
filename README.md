@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/healthbridge-ai/main/docs/images/demo.svg" alt="healthbridge-ai demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Clinicians spend 2–4 hours per shift searching through EHR systems, clinical guidelines, and patient records to answer diagnostic questions. Medical literature doubles every 73 days — impossible to stay current manually. Existing search tools return keyword matches, not synthesised answers. HealthBridge ingests 10,000+ clinical documents into Pinecone, applies HIPAA-aware PII detection/redaction, and uses GPT-4 + Claude with medical-domain prompts to provide synthesised clinical answers with source citations and confidence scores.
 
